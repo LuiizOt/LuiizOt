@@ -1,4 +1,4 @@
-### About me
+## About me
 ---
 My name is Luiz Otávio — a Cartographic and Surveying Engineer who loves turning spatial data into meaningful insights.
 
@@ -10,8 +10,8 @@ My name is Luiz Otávio — a Cartographic and Surveying Engineer who loves turn
 
 Always learning. Always building. 🌍
 
-### Contact
+## Contact
 ---
 You can reach me via <a href="https://www.linkedin.com/in/luizot/">Linkedin</a> or e-mailing me!
 
-[[🇬🇧 English](./README.md) | [🇧🇷 Português](./README.pt-BR.md)]
+### [[🇬🇧 English](./README.md) | [🇧🇷 Português](./README.pt-BR.md)]
