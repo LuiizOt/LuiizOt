@@ -1,4 +1,3 @@
-# [🇬🇧 English](./README.md) | [🇧🇷 Português](./README.pt-BR.md)
 ### Sobre Mim
 ---
 Meu nome é Luiz Otávio — Engenheiro Cartógrafo e Agrimensor (turma de 2023) apaixonado por transformar dados espaciais em insights significativos.
@@ -14,3 +13,5 @@ Sempre aprendendo. Sempre construindo. 🌍
 ### Contato
 ---
 Você pode entrar em contato via <a href="https://www.linkedin.com/in/luizot/">Linkedin</a> ou me mandando um e-mail!
+---
+ [🇬🇧 English](./README.md) | [🇧🇷 Português](./README.pt-BR.md)
