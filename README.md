@@ -1,8 +1,8 @@
-# Hey there 👋
+# [🇬🇧 English](./README.md) | [🇧🇷 Português](./README.pt-BR.md)
 
 ### About me
 ---
-I'm Luiz Otávio — a Cartographic and Surveying Engineer who loves turning spatial data into meaningful insights.
+My name is Luiz Otávio — a Cartographic and Surveying Engineer who loves turning spatial data into meaningful insights.
 
 🚀 Currently diving deep into a Data Science Bootcamp, where I'm learning to handle everything from data wrangling and visualization to predictive modeling and automation.
 
@@ -16,11 +16,9 @@ Always learning. Always building. 🌍
 ---
 You can reach me via <a href="https://www.linkedin.com/in/luizot/">Linkedin</a> or e-mailing me!
 
-
 ### Sobre Mim
 ---
-E aí! 👋
-Sou o Luiz Otávio — Engenheiro Cartógrafo e Agrimensor (turma de 2023) apaixonado por transformar dados espaciais em insights significativos.
+Meu nome é Luiz Otávio — Engenheiro Cartógrafo e Agrimensor (turma de 2023) apaixonado por transformar dados espaciais em insights significativos.
 
 🚀 Atualmente estou me aprofundando em um Bootcamp de Ciência de Dados, aprendendo desde tratamento e visualização de dados até modelagem preditiva e automação.
 
