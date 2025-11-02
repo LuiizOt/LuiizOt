@@ -13,5 +13,5 @@ Always learning. Always building. 🌍
 ### Contact
 ---
 You can reach me via <a href="https://www.linkedin.com/in/luizot/">Linkedin</a> or e-mailing me!
-
+---
 [🇬🇧 English](./README.md) | [🇧🇷 Português](./README.pt-BR.md)
