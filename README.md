@@ -1,5 +1,3 @@
-# [🇬🇧 English](./README.md) | [🇧🇷 Português](./README.pt-BR.md)
-
 ### About me
 ---
 My name is Luiz Otávio — a Cartographic and Surveying Engineer who loves turning spatial data into meaningful insights.
@@ -15,3 +13,5 @@ Always learning. Always building. 🌍
 ### Contact
 ---
 You can reach me via <a href="https://www.linkedin.com/in/luizot/">Linkedin</a> or e-mailing me!
+
+[^1] [🇬🇧 English](./README.md) | [🇧🇷 Português](./README.pt-BR.md)
