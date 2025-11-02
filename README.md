@@ -14,4 +14,4 @@ Always learning. Always building. 🌍
 ---
 You can reach me via <a href="https://www.linkedin.com/in/luizot/">Linkedin</a> or e-mailing me!
 
-[^1] [🇬🇧 English](./README.md) | [🇧🇷 Português](./README.pt-BR.md)
+[[🇬🇧 English](./README.md) | [🇧🇷 Português](./README.pt-BR.md)]
