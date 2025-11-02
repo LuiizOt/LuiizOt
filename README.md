@@ -1,7 +1,7 @@
 # Hey there 👋
 
 ## About me
-
+---
 I'm Luiz Otávio — a Cartographic and Surveying Engineer who loves turning spatial data into meaningful insights.
 
 🚀 Currently diving deep into a Data Science Bootcamp, where I'm learning to handle everything from data wrangling and visualization to predictive modeling and automation.
