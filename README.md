@@ -11,3 +11,7 @@ I'm Luiz Otávio — a Cartographic and Surveying Engineer who loves turning spa
 🧭 Passionate about GIS, Python, automation, and any project that mixes maps, data, and creativity.
 
 Always learning. Always building. 🌍
+
+### Contact
+---
+You can reach me via <a href="https://www.linkedin.com/in/luizot/"> Linkedin </a> or e-mailing me!
