@@ -1,6 +1,6 @@
 # Hey there 👋
 
-## About me
+### About me
 ---
 I'm Luiz Otávio — a Cartographic and Surveying Engineer who loves turning spatial data into meaningful insights.
 
