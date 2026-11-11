@@ -10,6 +10,8 @@ My name is Luiz Otávio — a Cartographic and Surveying Engineer who loves turn
 
 Always learning. Always building. 🌍
 
+[![Codewars](https://www.codewars.com/users/LuiizOt/badges/large)](https://www.codewars.com/users/LuiizOt)
+
 ### Contact
 ---
 You can reach me via <a href="https://www.linkedin.com/in/luizot/">Linkedin</a> or e-mailing me!
