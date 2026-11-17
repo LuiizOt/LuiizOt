@@ -1,14 +1,11 @@
-### Sobre Mim
----
-Meu nome é Luiz Otávio — Engenheiro Cartógrafo e Agrimensor (turma de 2023) apaixonado por transformar dados espaciais em insights significativos.
+## Sobre mim
 
-🚀 Atualmente estou me aprofundando em um Bootcamp de Ciência de Dados, aprendendo desde tratamento e visualização de dados até modelagem preditiva e automação.
+Engenheiro Cartógrafo e de Agrimensura (UFPR) e líder de equipe de GIS e LiDAR, em transição para ciência de dados geoespaciais. Transformo nuvens de pontos e dados espaciais em decisões para infraestrutura pública, com Python e Machine Learning.
 
-💼 Trabalho com Pesquisa e Desenvolvimento (P&D), criando soluções geoespaciais e explorando maneiras de unir engenharia, programação e ciência de dados para resolver problemas do mundo real.
-
-🧭 Sou apaixonado por GIS, Python, automação e qualquer projeto que envolva mapas, dados e criatividade.
-
-Sempre aprendendo. Sempre construindo. 🌍
+- 🛰️ **No dia a dia:** nuvens de pontos LiDAR (registro, limpeza e modelos de terreno), ArcGIS Enterprise on-premises, publicação de modelos BIM/IFC e gestão de equipe.
+- 🎓 **Formação:** programa Cientista de Dados da TripleTen (cerca de 630 horas, 2025 a 2026).
+- 🔭 **Aqui:** estudos de caso de Machine Learning e estatística, e o Flamelit, um mapa interativo de focos de queimadas no Paraná feito com GeoPandas e Folium. Dados, imagens e código do trabalho não são publicados aqui.
+- 🌎 Curitiba, Brasil (UTC-3), aberto a colaboração remota.
 
 ### Portfólio de Ciência de Dados
 ---
