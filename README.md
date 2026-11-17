@@ -2,7 +2,7 @@
 
 Cartographic and Surveying Engineer (UFPR) and GIS/LiDAR team lead, moving into geospatial data science. I turn point clouds and spatial data into decisions for public infrastructure, using Python and machine learning.
 
-- 🛰️ **Day to day:** LiDAR point clouds (registration, cleaning, terrain models), ArcGIS Enterprise on-premises, BIM/IFC publishing and a team of 7.
+- 🛰️ **Day to day:** LiDAR point clouds (registration, cleaning, terrain models), ArcGIS Enterprise on-premises, BIM/IFC publishing and a managing a team.
 - 🎓 **Training:** TripleTen's Data Scientist program (about 630 hours, 2025 to 2026).
 - 🔭 **Here:** case studies in machine learning and statistics, plus Flamelit, an interactive map of wildfire hotspots in Paraná built with GeoPandas and Folium. Work data, imagery and code are not published here.
 - 🌎 Curitiba, Brazil (UTC-3), open to remote collaboration.
