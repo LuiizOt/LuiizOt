@@ -1,14 +1,11 @@
-### About me
----
-My name is Luiz Otávio — a Cartographic and Surveying Engineer who loves turning spatial data into meaningful insights.
+## About me
 
-🚀 Currently diving deep into a Data Science Bootcamp, where I'm learning to handle everything from data wrangling and visualization to predictive modeling and automation.
+Cartographic and Surveying Engineer (UFPR) and GIS/LiDAR team lead, moving into geospatial data science. I turn point clouds and spatial data into decisions for public infrastructure, using Python and machine learning.
 
-💼 I work in R&D, developing geospatial solutions and exploring ways to blend engineering, programming, and data science to solve real-world problems.
-
-🧭 Passionate about GIS, Python, automation, and any project that mixes maps, data, and creativity.
-
-Always learning. Always building. 🌍
+- 🛰️ **Day to day:** LiDAR point clouds (registration, cleaning, terrain models), ArcGIS Enterprise on-premises, BIM/IFC publishing and a team of 7.
+- 🎓 **Training:** TripleTen's Data Scientist program (about 630 hours, 2025 to 2026).
+- 🔭 **Here:** case studies in machine learning and statistics, plus Flamelit, an interactive map of wildfire hotspots in Paraná built with GeoPandas and Folium. Work data, imagery and code are not published here.
+- 🌎 Curitiba, Brazil (UTC-3), open to remote collaboration.
 
 [![Codewars](https://www.codewars.com/users/LuiizOt/badges/large)](https://www.codewars.com/users/LuiizOt)
 
