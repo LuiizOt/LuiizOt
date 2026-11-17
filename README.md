@@ -18,6 +18,7 @@ End-to-end case studies developed during the TripleTen Data Science program. Eac
 
 | Project | Problem addressed | Key results |
 |---|---|---|
+| [Telecom Customer Churn Prediction](https://github.com/LuiizOt/telecom-customer-churn-prediction) *(final project)* | Predict which telecom customers will cancel their contracts | Tuned LightGBM F1 **0.73**, ROC-AUC **0.91** |
 | [Movie Review Sentiment Analysis](https://github.com/LuiizOt/movie-review-sentiment-analysis) | Automatically detect negative IMDB movie reviews (NLP) | Test F1 **0.88**, ROC-AUC **0.95** |
 | [Used Car Price Prediction](https://github.com/LuiizOt/used-car-price-prediction) | Estimate used-car market value, balancing accuracy and speed | LightGBM RMSE **2,108**, R² **0.78** |
 | [Insurance ML and Data Masking](https://github.com/LuiizOt/insurance-ml-data-masking) | Find similar customers, predict benefits and protect personal data | kNN F1 **0.97**; metrics unchanged after masking |

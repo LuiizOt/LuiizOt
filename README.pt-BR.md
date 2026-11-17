@@ -16,6 +16,7 @@ Estudos de caso completos desenvolvidos no programa de Ciência de Dados da Trip
 
 | Projeto | Problema abordado | Principais resultados |
 |---|---|---|
+| [Telecom Customer Churn Prediction](https://github.com/LuiizOt/telecom-customer-churn-prediction) *(projeto final)* | Prever quais clientes de telecom vão cancelar o contrato | LightGBM ajustado F1 **0,73**, ROC-AUC **0,91** |
 | [Movie Review Sentiment Analysis](https://github.com/LuiizOt/movie-review-sentiment-analysis) | Detectar automaticamente críticas negativas do IMDB (NLP) | F1 de teste **0,88**, ROC-AUC **0,95** |
 | [Used Car Price Prediction](https://github.com/LuiizOt/used-car-price-prediction) | Estimar o valor de mercado de carros usados, equilibrando precisão e velocidade | LightGBM RMSE **2.108**, R² **0,78** |
 | [Insurance ML and Data Masking](https://github.com/LuiizOt/insurance-ml-data-masking) | Encontrar clientes semelhantes, prever benefícios e proteger dados pessoais | kNN F1 **0,97**; métricas inalteradas após o mascaramento |
